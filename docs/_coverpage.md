@@ -8,8 +8,8 @@
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
-- 众多主题
-- 买一送一
+- 第二棺半价
+
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README)
