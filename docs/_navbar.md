@@ -2,7 +2,7 @@
 
 * [首页](/)
 * [笔记](guide)
-    * chapter(01/)
+    * chapter(01)
         * [chapter-01](01/chapter-1章)
         * [chapter-02](01/chapter-2章)
         * [chapter-03](01/chapter-3章)
